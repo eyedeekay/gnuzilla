@@ -1,3 +1,12 @@
+2015-05-15 Ruben Rodriguez <ruben@gnu.org>
+        * Updated to v31.7.0ESR
+	* Fix locale merging process
+	* Remove tor-proxy from debian recommends field
+
+2015-04-03 Ruben Rodriguez <ruben@gnu.org>
+	* Updated to v31.6.0ESR
+	* Disable CNNIC root certificate
+
 2015-03-15 Ruben Rodriguez <ruben@gnu.org>
 	* Fixed profile path to .mozilla/icecat
 
